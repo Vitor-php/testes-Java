@@ -1,4 +1,4 @@
-// ex 6 -> Restaurante
+// ex 7 -> Venda de Produto
 
 
 import java.awt.HeadlessException;
